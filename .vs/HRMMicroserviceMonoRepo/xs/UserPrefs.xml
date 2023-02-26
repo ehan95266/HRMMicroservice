@@ -1,3 +1,37 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{D3304213-F446-4490-A7C4-6CA14863F87E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Src.Interview.Hrm.Interview.Infrastructure FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRMMicroserviceMonoRepo" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="Src" expanded="True">
+              <Node name="Authentication" expanded="True" />
+              <Node name="Interview" expanded="True" />
+              <Node name="Onboarding" expanded="True" />
+              <Node name="Recruiting" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Src.Recruiting.Hrm.Recruiting.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Authentication.Hrm.Authentication.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Src.Authentication.Hrm.Authentication.ApplicationCoreLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Authentication.Hrm.Authentication.APILayer FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Src.Interview.Hrm.Interview.ApplicationCoreLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Onboarding.Hrm.Onboarding.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Onboarding.Hrm.Onboarding.APILayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Onboarding.Hrm.Onboarding.ApplicationCoreLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Recruiting.Hrm.Recruiting.APILayer FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Src.Interview.Hrm.Interview.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Recruiting.Hrm.Recruiting.ApplicationCoreLayer FirstBuild="True" />
 </Properties>
